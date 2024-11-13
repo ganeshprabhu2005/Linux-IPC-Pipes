@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-13 at 22 55 57_f1f61279](https://github.com/user-attachments/assets/840c5154-eb9b-44ab-aafa-1f26e0bef877)# Linux-IPC--Pipes
+
 Linux-IPC-Pipes
 
 
